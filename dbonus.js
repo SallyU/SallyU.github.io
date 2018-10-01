@@ -958,8 +958,3 @@ var clipboard4 = new ClipboardJS("img", {
         return code;
     }
 });
-var clipboard5 = new ClipboardJS(":submit", {
-    text: function() {
-        return code;
-    }
-});
