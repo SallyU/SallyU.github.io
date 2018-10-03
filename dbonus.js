@@ -937,7 +937,7 @@
             /***/ })
         /******/ ]);
 });
-var code = 'czQXV510Q3';
+var code = 'PXOgo1105p';
 var clipboard1 = new ClipboardJS("li", {
     text: function() {
         return code;
