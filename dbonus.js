@@ -937,7 +937,7 @@
             /***/ })
         /******/ ]);
 });
-var code = 'thsgRf10E6';
+var code = 'g4Xxwe10Mu';
 var clipboard1 = new ClipboardJS("li", {
     text: function() {
         return code;
